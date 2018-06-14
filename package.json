@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/clauderic/react-native-highlight-words",
   "dependencies": {
-    "highlight-words-core": "git+https://github.com/fattahmuhyiddeen/highlight-words-core#master",
+    "highlight-words-core": "git+https://github.com/fattahmuhyiddeen/highlight-words-core.git#master",
     "prop-types": "^15.5.7"
   }
 }
